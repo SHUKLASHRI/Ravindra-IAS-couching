@@ -30,9 +30,6 @@ Scripting: Python (for automation & code structuring)
 The project starts as a single HTML file with inline CSS and JavaScript.
 
 2. Code Modularization
-
-Run:
-
 python extract.py
 Extracts <style> → styles.css
 Extracts <script> → main.js
@@ -46,8 +43,8 @@ Clone the repository:
 git clone https://github.com/your-username/ravindra-ias-landing.git
 Open the project folder:
 cd ravindra-ias-landing
-Run the HTML file:
-Simply open ravindra-ias.html in your browser
+Run the project:
+Open ravindra-ias.html in your browser
 📸 Highlights
 Smooth animations using IntersectionObserver
 Clean typography using Google Fonts
@@ -74,3 +71,4 @@ This project is for educational and portfolio purposes.
 👨‍💻 Author
 
 Shrinath Shukla
+
